@@ -1,0 +1,7 @@
+<!DOCTYPE AnnoToolDocument [
+
+<!ELEMENT AnnoToolDocument (Tokens,Spans,Constituents)>
+<!ELEMENT Tokens (Token+)>
+<!ELEMENT Spans (Span+)>
+<!ELEMENT Constituents ()>
+]>
